@@ -1,0 +1,37 @@
+# Tic-Tac-Toe AI
+
+## Description
+A Python-based Tic-Tac-Toe game where a human plays against an AI that uses the Minimax algorithm to make optimal decisions.
+
+## Features
+- Human vs AI
+- Minimax Algorithm
+- Console-based interface
+- Winner detection
+- Draw detection
+
+## Requirements
+- Python 3.x
+
+## Run
+
+python tic_tac_toe.py
+
+## Controls
+Enter a number from 1 to 9 corresponding to the board positions.
+
+1 | 2 | 3
+---------
+4 | 5 | 6
+---------
+7 | 8 | 9
+
+## Algorithm
+Minimax Algorithm
+
+## Author
+Name: GOBBILLA CHANDRAKALA
+
+Department: ECE
+
+Year:2026
